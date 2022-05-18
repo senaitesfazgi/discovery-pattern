@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2022-05-18 15:35:15">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Jboss Patter Designer</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>ecaf2bc9786301107f444a5dfb8dfaf5</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-05-18 15:35:14</sys_created_on>
+<sys_id>3edb3421d1e301107f445bb79b3766e2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-05-18 15:35:14</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>cmdb_metadata_containment_6b0b0a57fc9b01107f44b68649840557</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_metadata_containment"><cmdb_metadata_containment action="INSERT_OR_UPDATE"><always_include>false</always_include><ci_type>u_cmdb_ci_jboss_wildfly_module</ci_type><is_reverse>false</is_reverse><parent_id display_value="u_cmdb_ci_jboss_wildfly">ab0b0a57fc9b01107f44b68649840554</parent_id><rel_type display_value="Contains::Contained by">55c95bf6c0a8010e0118ec7056ebc54d</rel_type><sys_class_name>cmdb_metadata_containment</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-11 21:34:55</sys_created_on><sys_id>6b0b0a57fc9b01107f44b68649840557</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_cmdb_ci_jboss_wildfly_module</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>cmdb_metadata_containment_6b0b0a57fc9b01107f44b68649840557</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-11 21:34:55</sys_updated_on></cmdb_metadata_containment></record_update>]]></payload>
+<payload_hash>1350864308</payload_hash>
+<remote_update_set display_value="Jboss Patter Designer">3edb3421d1e301107f445bb79b3766e2</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-05-18 15:35:15</sys_created_on>
+<sys_id>03db3421d1e301107f445bb79b3766e5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180b50bdfe40000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-05-18 15:35:15</sys_updated_on>
+<table/>
+<target_name>u_cmdb_ci_jboss_wildfly_module</target_name>
+<type>CMDB Metadata Containment Rules</type>
+<update_domain>global</update_domain>
+<update_guid>630b0a57489b0110f877eab23620b959</update_guid>
+<update_guid_history>630b0a57489b0110f877eab23620b959:1350864308</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>cmdb_identifier_b6cc8e1bfc9b01107f44b686498405a9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_identifier"><cmdb_identifier action="INSERT_OR_UPDATE"><active>true</active><applies_to>u_cmdb_ci_jboss_wildfly_module_entry_point</applies_to><description/><independent>true</independent><name>JBoss WildFly Module Entry Point rule</name><sys_class_name>cmdb_identifier</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-11 21:42:31</sys_created_on><sys_id>b6cc8e1bfc9b01107f44b686498405a9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_cmdb_ci_jboss_wildfly_module_entry_point</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>cmdb_identifier_b6cc8e1bfc9b01107f44b686498405a9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-11 21:42:31</sys_updated_on></cmdb_identifier></record_update>]]></payload>
+<payload_hash>-1168515680</payload_hash>
+<remote_update_set display_value="Jboss Patter Designer">3edb3421d1e301107f445bb79b3766e2</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-05-18 15:35:15</sys_created_on>
+<sys_id>07db3421d1e301107f445bb79b3766e4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180b512d2780000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-05-18 15:35:15</sys_updated_on>
+<table/>
+<target_name>u_cmdb_ci_jboss_wildfly_module_entry_point</target_name>
+<type>Identifier</type>
+<update_domain>global</update_domain>
+<update_guid>fecc8e1b419b0110421b8ac2f75c07aa</update_guid>
+<update_guid_history>fecc8e1b419b0110421b8ac2f75c07aa:-1168515680</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>cmdb_class_info_9f0bc657fc9b01107f44b686498405c3</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_class_info"><cmdb_class_info action="INSERT_OR_UPDATE"><class>u_cmdb_ci_jboss_wildfly_module</class><description/><managed_by_group/><principal_class>false</principal_class><sys_class_name>cmdb_class_info</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-11 21:34:54</sys_created_on><sys_id>9f0bc657fc9b01107f44b686498405c3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_cmdb_ci_jboss_wildfly_module</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>cmdb_class_info_9f0bc657fc9b01107f44b686498405c3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-11 21:34:54</sys_updated_on></cmdb_class_info></record_update>]]></payload>
+<payload_hash>-1668081837</payload_hash>
+<remote_update_set display_value="Jboss Patter Designer">3edb3421d1e301107f445bb79b3766e2</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-05-18 15:35:15</sys_created_on>
+<sys_id>0bdb3421d1e301107f445bb79b3766e3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180b50bda830000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-05-18 15:35:15</sys_updated_on>
+<table/>
+<target_name>u_cmdb_ci_jboss_wildfly_module</target_name>
+<type>CMDB Class Information</type>
+<update_domain>global</update_domain>
+<update_guid>d30bc657e19b01109d00236bc72e00c5</update_guid>
+<update_guid_history>d30bc657e19b01109d00236bc72e00c5:-1668081837</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sa_pattern_211f2789786301107f444a5dfb8dfa81</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sa_pattern"><sa_pattern action="INSERT_OR_UPDATE"><active>true</active><ci_type>u_cmdb_ci_jboss_wildfly</ci_type><cpattern_type>1</cpattern_type><description/><directory>false</directory><enforce_proc_classy>false</enforce_proc_classy><invoke_per_account>false</invoke_per_account><metadata_id>211f2789786301107f444a5dfb8dfa81</metadata_id><name>JBoss WildFly Pattern</name><ndl>pattern {&#13;
+	metadata {&#13;
+		id = "211f2789786301107f444a5dfb8dfa81"&#13;
+		name = "JBoss WildFly Pattern"&#13;
+		description = ""&#13;
+		citype = "u_cmdb_ci_jboss_wildfly"&#13;
+	}&#13;
+	identification {&#13;
+		name = "Identification for JBoss WildFly Web Site (war)"&#13;
+		entry_point {type = "cmdb_ci_endpoint_http"}&#13;
+		find_process_strategy {strategy = LISTENING_PORT}&#13;
+		step {&#13;
+			name = "Match JBoss WildFly command line"&#13;
+			match {&#13;
+				contains {&#13;
+					get_attr {"process.commandLine"}&#13;
+					"jboss.server.base"&#13;
+				}&#13;
+				terminate_op = terminate&#13;
+				terminate_msg = ""&#13;
+			}&#13;
+		}&#13;
+		step {&#13;
+			name = "Set installation directory"&#13;
+			set_attr {&#13;
+				"install_directory"&#13;
+				get_attr {"process.environmentVariables.JBOSS_HOME.value"}&#13;
+			}&#13;
+		}&#13;
+		step {&#13;
+			name = "Set base_dir"&#13;
+			parse_var_to_var {&#13;
+				from_var_name = "process.commandLine"&#13;
+				to_var_names = "base_dir"&#13;
+				parsing_strategy = cmdline_linux_parsing {after_option = "jboss.server.base.dir"}&#13;
+				if_not_found_do = nop {}&#13;
+			}&#13;
+		}&#13;
+		step {&#13;
+			name = "Set configuration directory"&#13;
+			set_attr {&#13;
+				"config_directory"&#13;
+				concat {&#13;
+					get_attr {"base_dir"}&#13;
+					"/configuration"&#13;
+				}&#13;
+			}&#13;
+		}&#13;
+		step {&#13;
+			name = "Set configuration file name"&#13;
+			parse_var_to_var {&#13;
+				from_var_name = "process.commandLine"&#13;
+				to_var_names = "config_file"&#13;
+				parsing_strategy = cmdline_linux_parsing {after_option = "-c"}&#13;
+				if_not_found_do = nop {}&#13;
+			}&#13;
+		}&#13;
+		step {&#13;
+			name = "Set configuration file full path"&#13;
+			set_attr {&#13;
+				"config_file"&#13;
+				concat {&#13;
+					get_attr {"config_directory"}&#13;
+					"/"&#13;
+					get_attr {"config_file"}&#13;
+				}&#13;
+			}&#13;
+		}&#13;
+		step {&#13;
+			name = "Set version"&#13;
+			runcmd_to_var {&#13;
+				cmd = concat {&#13;
+					"sh "&#13;
+					get_attr {"install_directory"}&#13;
+					"/bin/standalone.sh -v || :"&#13;
+				}&#13;
+				execution_mode = "DEFAULT"&#13;
+				var_names = "version"&#13;
+				parsing_strategy = regex_parsing {regex = "WildFly.*?([\\d\\.]+)\\."}&#13;
+				if_not_found_do = nop {}&#13;
+				cache_flag = 0&#13;
+			}&#13;
+		}&#13;
+		step {&#13;
+			name = "Set name"&#13;
+			set_attr {&#13;
+				"name"&#13;
+				concat {&#13;
+					"JBoss WildFly "&#13;
+					get_attr {"version"}&#13;
+				}&#13;
+			}&#13;
+		}&#13;
+		step {&#13;
+			name = "Get all deployment from config file"&#13;
+			parse_text_file_to_var {&#13;
+				file_path = get_files_by_filter {&#13;
+					expression = get_attr {"config_file"}&#13;
+					foreach_attribute_name = "forEach"&#13;
+				}&#13;
+				var_names = table {&#13;
+					name = "deployments"&#13;
+					col_names = "sha1","name"&#13;
+				}&#13;
+				parsing_strategy = xml_parsing_strategy {&#13;
+					rootXpath = "/server"&#13;
+					fields {&#13;
+						field {&#13;
+							col_name = "sha1"&#13;
+							xpath = "/server/deployments/deployment/content/@sha1"&#13;
+							delimiters = ""&#13;
+							position = 1&#13;
+						}&#13;
+						field {&#13;
+							col_name = "name"&#13;
+							xpath = "/server/deployments/deployment/@name"&#13;
+							delimiters = ""&#13;
+							position = 1&#13;
+						}&#13;
+						field {&#13;
+							col_name = "forEach"&#13;
+							for_each = "forEach"&#13;
+							delimiters = ""&#13;
+							position = 1&#13;
+						}&#13;
+					}&#13;
+				}&#13;
+				if_not_found_do = nop {}&#13;
+				cache_flag = 0&#13;
+			}&#13;
+		}&#13;
+		step {&#13;
+			name = "Parse entry point"&#13;
+			parse_url_to_var {&#13;
+				from_var_name = "entry_point.url"&#13;
+				to_var_name = "ep_url"&#13;
+				if_not_found_do = nop {}&#13;
+			}&#13;
+		}&#13;
+		step {&#13;
+			name = "Remove slash from path"&#13;
+			set_attr {&#13;
+				"path_from_ep"&#13;
+				eval {"String res = ${ep_url[1].path};res = res.replaceAll(\"/\", \"\");return res;"}&#13;
+			}&#13;
+		}&#13;
+		step {&#13;
+			name = "Filter deployment table"&#13;
+			filter {&#13;
+				src_table_name = "deployments"&#13;
+				target_table_name = "deployments"&#13;
+				condition = eq {&#13;
+					get_attr {"deployments[].name"}&#13;
+					concat {&#13;
+						get_attr {"path_from_ep"}&#13;
+						".war"&#13;
+					}&#13;
+				}&#13;
+			}&#13;
+		}&#13;
+		step {&#13;
+			name = "Validate deployment table is not empty"&#13;
+			match {&#13;
+				all {&#13;
+					is_not_empty {get_attr {"deployments"}}&#13;
+					is_empty {get_attr {"deployments[2].name"}}&#13;
+				}&#13;
+				terminate_op = terminate&#13;
+				terminate_msg = ""&#13;
+			}&#13;
+		}&#13;
+		step {&#13;
+			name = "Set temporary directory"&#13;
+			set_attr {&#13;
+				"temp_directory"&#13;
+				concat {&#13;
+					get_attr {"base_dir"}&#13;
+					"/tmp/vfs"&#13;
+				}&#13;
+			}&#13;
+		}&#13;
+	}&#13;
+	connection {&#13;
+		name = "Connect to Module"&#13;
+		step {&#13;
+			name = "Connect to Module"&#13;
+			if {&#13;
+				condition = is_not_empty {get_attr {"path_from_ep"}}&#13;
+				on_true = create_connection {&#13;
+					connection_type = INCLUSION&#13;
+					target_ci_type = ""&#13;
+					entry_point_type = "u_cmdb_ci_jboss_wildfly_module_entry_point"&#13;
+					attributes {&#13;
+						attribute {&#13;
+							name = "name"&#13;
+							value = get_attr {"path_from_ep"}&#13;
+						}&#13;
+						attribute {&#13;
+							name = "u_directory"&#13;
+							value = get_attr {"temp_directory"}&#13;
+						}&#13;
+					}&#13;
+					is_artificial = "false"&#13;
+					traffic_based = "false"&#13;
+				}&#13;
+				on_false = nop {}&#13;
+			}&#13;
+		}&#13;
+	}&#13;
+}&#13;
+</ndl><parent/><serverless>false</serverless><source/><sys_class_name>sa_pattern</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-17 15:21:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>211f2789786301107f444a5dfb8dfa81</sys_id><sys_mod_count>11</sys_mod_count><sys_name>JBoss WildFly Pattern</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sa_pattern_211f2789786301107f444a5dfb8dfa81</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-17 22:29:11</sys_updated_on><version/></sa_pattern></record_update>]]></payload>
+<payload_hash>-1569119194</payload_hash>
+<remote_update_set display_value="Jboss Patter Designer">3edb3421d1e301107f445bb79b3766e2</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-05-18 15:35:15</sys_created_on>
+<sys_id>0fdb3421d1e301107f445bb79b3766e5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180d423b3d90000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-05-18 15:35:15</sys_updated_on>
+<table/>
+<target_name>JBoss WildFly Pattern</target_name>
+<type>Discovery Patterns</type>
+<update_domain>global</update_domain>
+<update_guid>74019d99f1eb0110490c77f440510d41</update_guid>
+<update_guid_history>74019d99f1eb0110490c77f440510d41:-1569119194,91af4519caeb0110458393546b5dc3d0:-2114114694,30e938155b6b01107a75f6c99470306a:139956872,cbb734515c6b011062e09ecfd5f4a12b:-1082659373,aa457cd9322b0110dd575783433f2624:-144623082,5a53d8554867011013c56d6d1473791b:1340574237,c9231c55db670110456dca63ce3598cd:-447317411,0992d815ca67011067b416798e7072a6:-1256408222,0a629415f3670110982cfa5fa280587e:384868475,9ceac019102701105e43ca65e6aae519:1854653832,9730cc1573e301105ee3f3d33698974b:-226015281,be1f2789db6301107c7ffb86e3126c83:-373742680</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>cmdb_class_info_23d2c21bfc5b01107f44b686498405bb</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_class_info"><cmdb_class_info action="INSERT_OR_UPDATE"><class>u_cmdb_ci_jboss_wildfly</class><description/><managed_by_group/><principal_class>false</principal_class><sys_class_name>cmdb_class_info</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-11 20:59:08</sys_created_on><sys_id>23d2c21bfc5b01107f44b686498405bb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_cmdb_ci_jboss_wildfly</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>cmdb_class_info_23d2c21bfc5b01107f44b686498405bb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-11 20:59:08</sys_updated_on></cmdb_class_info></record_update>]]></payload>
+<payload_hash>1815368729</payload_hash>
+<remote_update_set display_value="Jboss Patter Designer">3edb3421d1e301107f445bb79b3766e2</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-05-18 15:35:14</sys_created_on>
+<sys_id>32db3421d1e301107f445bb79b3766e3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180b4eb1d2a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-05-18 15:35:14</sys_updated_on>
+<table/>
+<target_name>u_cmdb_ci_jboss_wildfly</target_name>
+<type>CMDB Class Information</type>
+<update_domain>global</update_domain>
+<update_guid>67d2c21b1d5b011079f456af0e4028bc</update_guid>
+<update_guid_history>67d2c21b1d5b011079f456af0e4028bc:1815368729</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>cmdb_identifier_9f0bc657fc9b01107f44b686498405c6</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_identifier"><cmdb_identifier action="INSERT_OR_UPDATE"><active>true</active><applies_to>u_cmdb_ci_jboss_wildfly_module</applies_to><description/><independent>false</independent><name>JBoss WildFly Module rule</name><sys_class_name>cmdb_identifier</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-11 21:34:54</sys_created_on><sys_id>9f0bc657fc9b01107f44b686498405c6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_cmdb_ci_jboss_wildfly_module</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>cmdb_identifier_9f0bc657fc9b01107f44b686498405c6</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-11 21:34:54</sys_updated_on></cmdb_identifier></record_update>]]></payload>
+<payload_hash>391853839</payload_hash>
+<remote_update_set display_value="Jboss Patter Designer">3edb3421d1e301107f445bb79b3766e2</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-05-18 15:35:15</sys_created_on>
+<sys_id>43db3421d1e301107f445bb79b3766e4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180b50bdabc0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-05-18 15:35:15</sys_updated_on>
+<table/>
+<target_name>u_cmdb_ci_jboss_wildfly_module</target_name>
+<type>Identifier</type>
+<update_domain>global</update_domain>
+<update_guid>9f0bc657a89b0110f0192152d7e56dd4</update_guid>
+<update_guid_history>9f0bc657a89b0110f0192152d7e56dd4:391853839</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>cmdb_reconciliation_definition_af0b0a57fc9b01107f44b68649840559</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_reconciliation_definition"><cmdb_reconciliation_definition action="INSERT_OR_UPDATE"><active>true</active><applies_to>u_cmdb_ci_jboss_wildfly_module</applies_to><attributes/><condition/><discovery_source>ServiceWatch</discovery_source><name>JBoss WildFly Module rule by ServiceWatch</name><null_update/><priority>9999</priority><sys_class_name>cmdb_reconciliation_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-11 21:34:55</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>af0b0a57fc9b01107f44b68649840559</sys_id><sys_mod_count>0</sys_mod_count><sys_name>JBoss WildFly Module rule by ServiceWatch</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>cmdb_reconciliation_definition_af0b0a57fc9b01107f44b68649840559</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-11 21:34:55</sys_updated_on></cmdb_reconciliation_definition></record_update>]]></payload>
+<payload_hash>-181300356</payload_hash>
+<remote_update_set display_value="Jboss Patter Designer">3edb3421d1e301107f445bb79b3766e2</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-05-18 15:35:15</sys_created_on>
+<sys_id>4bdb3421d1e301107f445bb79b3766e5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180b50be05e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-05-18 15:35:15</sys_updated_on>
+<table/>
+<target_name>JBoss WildFly Module rule by ServiceWatch</target_name>
+<type>Reconciliation Definition</type>
+<update_domain>global</update_domain>
+<update_guid>ab0b0a57d89b0110adc512fae2230b5b</update_guid>
+<update_guid_history>ab0b0a57d89b0110adc512fae2230b5b:-181300356</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>cmdb_identifier_entry_db0bc657fc9b01107f44b686498405d5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_identifier_entry"><cmdb_identifier_entry action="INSERT_OR_UPDATE"><active>true</active><allow_fallback>false</allow_fallback><allow_null_attribute>false</allow_null_attribute><attributes>sys_class_name,name</attributes><condition/><exact_count_match>false</exact_count_match><hybrid_entry_ci_criterion_attributes/><identifier display_value="u_cmdb_ci_jboss_wildfly_module">9f0bc657fc9b01107f44b686498405c6</identifier><order>100</order><sys_class_name>cmdb_identifier_entry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-11 21:34:54</sys_created_on><sys_id>db0bc657fc9b01107f44b686498405d5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sys_class_name,name</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>cmdb_identifier_entry_db0bc657fc9b01107f44b686498405d5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-11 21:34:54</sys_updated_on><table>u_cmdb_ci_jboss_wildfly_module</table></cmdb_identifier_entry></record_update>]]></payload>
+<payload_hash>-1017853179</payload_hash>
+<remote_update_set display_value="Jboss Patter Designer">3edb3421d1e301107f445bb79b3766e2</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-05-18 15:35:15</sys_created_on>
+<sys_id>4fdb3421d1e301107f445bb79b3766e4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180b50bdd910000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-05-18 15:35:15</sys_updated_on>
+<table>u_cmdb_ci_jboss_wildfly_module</table>
+<target_name>sys_class_name,name</target_name>
+<type>Identifier Entry</type>
+<update_domain>global</update_domain>
+<update_guid>230b0a57df9b0110f60142f17c507416</update_guid>
+<update_guid_history>230b0a57df9b0110f60142f17c507416:-1017853179</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>cmdb_reconciliation_definition_3fd2061bfc5b01107f44b6864984054b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_reconciliation_definition"><cmdb_reconciliation_definition action="INSERT_OR_UPDATE"><active>true</active><applies_to>u_cmdb_ci_jboss_wildfly</applies_to><attributes/><condition/><discovery_source>ServiceWatch</discovery_source><name>JBoss WildFly rule by ServiceWatch</name><null_update/><priority>9999</priority><sys_class_name>cmdb_reconciliation_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-11 20:59:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>3fd2061bfc5b01107f44b6864984054b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>JBoss WildFly rule by ServiceWatch</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>cmdb_reconciliation_definition_3fd2061bfc5b01107f44b6864984054b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-11 20:59:10</sys_updated_on></cmdb_reconciliation_definition></record_update>]]></payload>
+<payload_hash>-856167597</payload_hash>
+<remote_update_set display_value="Jboss Patter Designer">3edb3421d1e301107f445bb79b3766e2</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-05-18 15:35:15</sys_created_on>
+<sys_id>87db3421d1e301107f445bb79b3766e5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180b4eb21f50000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-05-18 15:35:15</sys_updated_on>
+<table/>
+<target_name>JBoss WildFly rule by ServiceWatch</target_name>
+<type>Reconciliation Definition</type>
+<update_domain>global</update_domain>
+<update_guid>3bd2061bc85b0110a202046c889ffa4d</update_guid>
+<update_guid_history>3bd2061bc85b0110a202046c889ffa4d:-856167597</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>cmdb_identifier_entry_a7d2c21bfc5b01107f44b686498405c0</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_identifier_entry"><cmdb_identifier_entry action="INSERT_OR_UPDATE"><active>true</active><allow_fallback>true</allow_fallback><allow_null_attribute>false</allow_null_attribute><attributes>sys_class_name,install_directory</attributes><condition/><exact_count_match>false</exact_count_match><hybrid_entry_ci_criterion_attributes/><identifier display_value="u_cmdb_ci_jboss_wildfly">23d2c21bfc5b01107f44b686498405be</identifier><order>100</order><sys_class_name>cmdb_identifier_entry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-11 20:59:09</sys_created_on><sys_id>a7d2c21bfc5b01107f44b686498405c0</sys_id><sys_mod_count>1</sys_mod_count><sys_name>sys_class_name,install_directory</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>cmdb_identifier_entry_a7d2c21bfc5b01107f44b686498405c0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-11 21:01:17</sys_updated_on><table>u_cmdb_ci_jboss_wildfly</table></cmdb_identifier_entry></record_update>]]></payload>
+<payload_hash>1004481997</payload_hash>
+<remote_update_set display_value="Jboss Patter Designer">3edb3421d1e301107f445bb79b3766e2</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-05-18 15:35:15</sys_created_on>
+<sys_id>8bdb3421d1e301107f445bb79b3766e4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180b4ed13010000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-05-18 15:35:15</sys_updated_on>
+<table>u_cmdb_ci_jboss_wildfly</table>
+<target_name>sys_class_name,install_directory</target_name>
+<type>Identifier Entry</type>
+<update_domain>global</update_domain>
+<update_guid>fe53065b1e5b0110ae11a2f664fae230</update_guid>
+<update_guid_history>fe53065b1e5b0110ae11a2f664fae230:1004481997,bfd2061b605b0110f24510056cd4b74a:2073984418</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>cmdb_identifier_23d2c21bfc5b01107f44b686498405be</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_identifier"><cmdb_identifier action="INSERT_OR_UPDATE"><active>true</active><applies_to>u_cmdb_ci_jboss_wildfly</applies_to><description/><independent>false</independent><name>JBoss WildFly rule</name><sys_class_name>cmdb_identifier</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-11 20:59:09</sys_created_on><sys_id>23d2c21bfc5b01107f44b686498405be</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_cmdb_ci_jboss_wildfly</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>cmdb_identifier_23d2c21bfc5b01107f44b686498405be</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-11 20:59:09</sys_updated_on></cmdb_identifier></record_update>]]></payload>
+<payload_hash>-1670483089</payload_hash>
+<remote_update_set display_value="Jboss Patter Designer">3edb3421d1e301107f445bb79b3766e2</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-05-18 15:35:15</sys_created_on>
+<sys_id>8fdb3421d1e301107f445bb79b3766e3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180b4eb1df80000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-05-18 15:35:15</sys_updated_on>
+<table/>
+<target_name>u_cmdb_ci_jboss_wildfly</target_name>
+<type>Identifier</type>
+<update_domain>global</update_domain>
+<update_guid>6bd2c21b195b0110083dc3e2b8b3f6bf</update_guid>
+<update_guid_history>6bd2c21b195b0110083dc3e2b8b3f6bf:-1670483089</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>cmdb_metadata_containment_ab0b0a57fc9b01107f44b68649840554</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_metadata_containment"><cmdb_metadata_containment action="INSERT_OR_UPDATE"><always_include>false</always_include><ci_type>u_cmdb_ci_jboss_wildfly</ci_type><is_reverse>false</is_reverse><parent_id/><rel_type/><sys_class_name>cmdb_metadata_containment</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-11 21:34:55</sys_created_on><sys_id>ab0b0a57fc9b01107f44b68649840554</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_cmdb_ci_jboss_wildfly</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>cmdb_metadata_containment_ab0b0a57fc9b01107f44b68649840554</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-11 21:34:55</sys_updated_on></cmdb_metadata_containment></record_update>]]></payload>
+<payload_hash>-1650969074</payload_hash>
+<remote_update_set display_value="Jboss Patter Designer">3edb3421d1e301107f445bb79b3766e2</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-05-18 15:35:15</sys_created_on>
+<sys_id>c3db3421d1e301107f445bb79b3766e5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180b50bdfca0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-05-18 15:35:15</sys_updated_on>
+<table/>
+<target_name>u_cmdb_ci_jboss_wildfly</target_name>
+<type>CMDB Metadata Containment Rules</type>
+<update_domain>global</update_domain>
+<update_guid>2f0b0a57369b0110acbb907c7d1e5b56</update_guid>
+<update_guid_history>2f0b0a57369b0110acbb907c7d1e5b56:-1650969074</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>cmdb_identifier_entry_3ecc8e1bfc9b01107f44b686498405ab</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_identifier_entry"><cmdb_identifier_entry action="INSERT_OR_UPDATE"><active>true</active><allow_fallback>false</allow_fallback><allow_null_attribute>true</allow_null_attribute><attributes>container,u_directory,host,port</attributes><condition/><exact_count_match>false</exact_count_match><hybrid_entry_ci_criterion_attributes/><identifier display_value="u_cmdb_ci_jboss_wildfly_module_entry_point">b6cc8e1bfc9b01107f44b686498405a9</identifier><order>100</order><sys_class_name>cmdb_identifier_entry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-11 21:42:31</sys_created_on><sys_id>3ecc8e1bfc9b01107f44b686498405ab</sys_id><sys_mod_count>0</sys_mod_count><sys_name>container,u_directory,host,port</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>cmdb_identifier_entry_3ecc8e1bfc9b01107f44b686498405ab</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-11 21:42:31</sys_updated_on><table>u_cmdb_ci_jboss_wildfly_module_entry_point</table></cmdb_identifier_entry></record_update>]]></payload>
+<payload_hash>-276099363</payload_hash>
+<remote_update_set display_value="Jboss Patter Designer">3edb3421d1e301107f445bb79b3766e2</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-05-18 15:35:15</sys_created_on>
+<sys_id>c7db3421d1e301107f445bb79b3766e4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180b512d5bb0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-05-18 15:35:15</sys_updated_on>
+<table>u_cmdb_ci_jboss_wildfly_module_entry_point</table>
+<target_name>container,u_directory,host,port</target_name>
+<type>Identifier Entry</type>
+<update_domain>global</update_domain>
+<update_guid>87ccce1b209b0110dff0bea90c5b182a</update_guid>
+<update_guid_history>87ccce1b209b0110dff0bea90c5b182a:-276099363</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>cmdb_class_info_cdcc0e1bfc9b01107f44b686498405e8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="cmdb_class_info"><cmdb_class_info action="INSERT_OR_UPDATE"><class>u_cmdb_ci_jboss_wildfly_module_entry_point</class><description/><managed_by_group/><principal_class>false</principal_class><sys_class_name>cmdb_class_info</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-11 21:42:24</sys_created_on><sys_id>cdcc0e1bfc9b01107f44b686498405e8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>u_cmdb_ci_jboss_wildfly_module_entry_point</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_scope display_value="Global">global</sys_scope><sys_update_name>cmdb_class_info_cdcc0e1bfc9b01107f44b686498405e8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-11 21:42:24</sys_updated_on></cmdb_class_info></record_update>]]></payload>
+<payload_hash>1358666963</payload_hash>
+<remote_update_set display_value="Jboss Patter Designer">3edb3421d1e301107f445bb79b3766e2</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-05-18 15:35:15</sys_created_on>
+<sys_id>cbdb3421d1e301107f445bb79b3766e3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180b512b76e0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-05-18 15:35:15</sys_updated_on>
+<table/>
+<target_name>u_cmdb_ci_jboss_wildfly_module_entry_point</target_name>
+<type>CMDB Class Information</type>
+<update_domain>global</update_domain>
+<update_guid>05cc0e1b209b011003e2ebddabb89aea</update_guid>
+<update_guid_history>05cc0e1b209b011003e2ebddabb89aea:1358666963</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sa_pattern_c8edc11578eb01107f444a5dfb8dfaa5</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sa_pattern"><sa_pattern action="INSERT_OR_UPDATE"><active>true</active><ci_type>u_cmdb_ci_jboss_wildfly_module</ci_type><cpattern_type>1</cpattern_type><description/><directory>false</directory><enforce_proc_classy>false</enforce_proc_classy><invoke_per_account>false</invoke_per_account><metadata_id>c8edc11578eb01107f444a5dfb8dfaa5</metadata_id><name>JBoss WildFly Module Pattern</name><ndl>pattern {&#13;
+	metadata {&#13;
+		id = "c8edc11578eb01107f444a5dfb8dfaa5"&#13;
+		name = "JBoss WildFly Module Pattern"&#13;
+		description = ""&#13;
+		citype = "u_cmdb_ci_jboss_wildfly_module"&#13;
+	}&#13;
+	identification {&#13;
+		name = "Identification for JBoss WildFly Module"&#13;
+		entry_point {type = "u_cmdb_ci_jboss_wildfly_module_entry_point"}&#13;
+		find_process_strategy {strategy = NONE}&#13;
+		step {&#13;
+			name = "Set name"&#13;
+			set_attr {&#13;
+				"name"&#13;
+				get_attr {"entry_point.name"}&#13;
+			}&#13;
+		}&#13;
+		step {&#13;
+			name = "Set installation directory"&#13;
+			set_attr {&#13;
+				"install_directory"&#13;
+				get_attr {"entry_point.u_directory"}&#13;
+			}&#13;
+		}&#13;
+		step {&#13;
+			name = "Set temp directory"&#13;
+			set_attr {&#13;
+				"temp_directory"&#13;
+				concat {&#13;
+					get_attr {"entry_point.u_directory"}&#13;
+					"/temp"&#13;
+				}&#13;
+			}&#13;
+		}&#13;
+	}&#13;
+	connection {&#13;
+		name = "Connection Section to PostgreSQL"&#13;
+		step {&#13;
+			name = "Set configuration file"&#13;
+			runcmd_to_var {&#13;
+				cmd = concat {&#13;
+					"find "&#13;
+					get_attr {"temp_directory"}&#13;
+					" -type f -name \""&#13;
+					get_attr {"name"}&#13;
+					"-ds.xml\""&#13;
+				}&#13;
+				execution_mode = "DEFAULT"&#13;
+				var_names = "config_file"&#13;
+				parsing_strategy = delimited_parsing {&#13;
+					selected_positions = 1&#13;
+				}&#13;
+				if_not_found_do = nop {}&#13;
+				cache_flag = 0&#13;
+			}&#13;
+		}&#13;
+		step {&#13;
+			name = "Set connection string"&#13;
+			parse_text_file_to_var {&#13;
+				file_path = get_files_by_filter {&#13;
+					expression = get_attr {"config_file"}&#13;
+					foreach_attribute_name = "forEach"&#13;
+				}&#13;
+				var_names = "connection_string"&#13;
+				parsing_strategy = xml_parsing_strategy {&#13;
+					rootXpath = "/datasources"&#13;
+					fields {&#13;
+						field {&#13;
+							col_name = "connection_string"&#13;
+							xpath = "/datasources/datasource/connection-url/text()"&#13;
+							delimiters = ""&#13;
+							position = 1&#13;
+						}&#13;
+						field {&#13;
+							col_name = "forEach"&#13;
+							for_each = "forEach"&#13;
+							delimiters = ""&#13;
+							position = 1&#13;
+						}&#13;
+					}&#13;
+				}&#13;
+				if_not_found_do = nop {}&#13;
+				cache_flag = 0&#13;
+			}&#13;
+		}&#13;
+		step {&#13;
+			name = "Parse connection string"&#13;
+			parse_var_to_var {&#13;
+				from_var_name = "connection_string"&#13;
+				to_var_names = table {&#13;
+					name = "db_connection"&#13;
+					col_names = "host","port","database"&#13;
+				}&#13;
+				parsing_strategy = regex_parsing {regex = ".*://([\\d\\.]+|[\\d\\w\\.-_]+):(\\d{1,4})/([\\w\\d\\.\\-\\_]+)"}&#13;
+				if_not_found_do = nop {}&#13;
+			}&#13;
+		}&#13;
+		step {&#13;
+			name = "Create a connection to PostgreSQL"&#13;
+			create_connection {&#13;
+				connection_type = APPLICATION_FLOW&#13;
+				target_ci_type = ""&#13;
+				entry_point_type = "cmdb_ci_endpoint_postgresql"&#13;
+				attributes {&#13;
+					attribute {&#13;
+						name = "host"&#13;
+						value = get_attr {"db_connection[*].host"}&#13;
+					}&#13;
+					attribute {&#13;
+						name = "instance"&#13;
+						value = get_attr {"db_connection[*].database"}&#13;
+					}&#13;
+					attribute {&#13;
+						name = "port"&#13;
+						value = get_attr {"db_connection[*].port"}&#13;
+					}&#13;
+				}&#13;
+				is_artificial = "false"&#13;
+				traffic_based = "false"&#13;
+			}&#13;
+		}&#13;
+	}&#13;
+}&#13;
+</ndl><parent/><serverless>false</serverless><source/><sys_class_name>sa_pattern</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-17 22:15:28</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c8edc11578eb01107f444a5dfb8dfaa5</sys_id><sys_mod_count>5</sys_mod_count><sys_name>JBoss WildFly Module Pattern</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace/><sys_scope display_value="Global">global</sys_scope><sys_update_name>sa_pattern_c8edc11578eb01107f444a5dfb8dfaa5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-18 14:22:39</sys_updated_on><version/></sa_pattern></record_update>]]></payload>
+<payload_hash>-1057197420</payload_hash>
+<remote_update_set display_value="Jboss Patter Designer">3edb3421d1e301107f445bb79b3766e2</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-05-18 15:35:15</sys_created_on>
+<sys_id>cfdb3421d1e301107f445bb79b3766e5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>180d78ca2920000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-05-18 15:35:15</sys_updated_on>
+<table/>
+<target_name>JBoss WildFly Module Pattern</target_name>
+<type>Discovery Patterns</type>
+<update_domain>global</update_domain>
+<update_guid>af3ba06160630110a21f65ba9ec37b0f</update_guid>
+<update_guid_history>af3ba06160630110a21f65ba9ec37b0f:-1057197420,5eb960210c6301105a4a270c34f2ff7c:172299836,8935d9912c2f0110befe30dea6baf437:-514667668,3b341151b12f011097d5fccfc9909996:18248812,56edc155eceb0110ae417edfbad1fa10:-1658121678,0ced0155d3eb011029fbc1be8e8e7bc6:592244947</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
